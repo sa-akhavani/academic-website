@@ -15,12 +15,12 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=XkzTDzUAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/sa-akhavani
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/seyed-ali-akhavani/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/sa-akhavani
   - display:
       header: false
     link: https://stackoverflow.com/users/4536252/seyed-ali-akhavani
