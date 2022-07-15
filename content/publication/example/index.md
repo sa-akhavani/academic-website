@@ -21,13 +21,13 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: In *Wowchemy Conference*
+publication: In *International Security Conference 2021*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: In *ISC 2021*
 url_source: ""
 url_video: ""
 title: "Browserprint: An Analysis of the Impact of Browser Features on
@@ -43,7 +43,7 @@ image:
   preview_only: true
 date: 2022-07-15T21:25:08.352Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
