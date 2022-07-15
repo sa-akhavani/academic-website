@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Seyed Ali Akhavani. This work is licensed under {license}'
+    notice: '© {year} Seyed Ali Akhavani.'
     license:
       enable: false
       allow_derivatives: false
