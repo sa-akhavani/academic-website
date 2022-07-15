@@ -36,7 +36,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Northeastern University
-      year: 2024
+      year: ""
     - course: BSc in Computer Engineering
       institution: University of Tehran
       year: 2019
