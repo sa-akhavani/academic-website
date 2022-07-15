@@ -11,10 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: mailto:sadatakhavani.s@northeastern.edu
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=XkzTDzUAAAAJ&hl=en
