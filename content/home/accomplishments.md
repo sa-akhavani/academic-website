@@ -31,7 +31,7 @@ item:
     # certificate_url: https://www.coursera.org
     url: ''
     # date_end: ''
-    # date_start: '2021-01-25'
+    date_start: '2022-06-01'
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
