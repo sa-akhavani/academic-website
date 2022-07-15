@@ -27,8 +27,9 @@ social:
     icon_pack: fab
     icon: stack-overflow
 organizations:
-  - name: Northeastern University, Boston, MA
+  - name: Northeastern University
     url: https://seclab.nu/
+  - name: Boston, MA
 education:
   courses:
     - course: PhD in Computer Science
