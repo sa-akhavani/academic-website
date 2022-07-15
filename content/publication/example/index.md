@@ -19,13 +19,13 @@ authors:
   - Engin Kirda
   - Long Lu
 author_notes: []
-publication: In *International Security Conference 2021*
+publication: "*International Security Conference 2021*"
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *ISC 2021*
+publication_short: "*ISC 2021*"
 url_source: ""
 url_video: ""
 title: "Browserprint: An Analysis of the Impact of Browser Features on
