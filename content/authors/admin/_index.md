@@ -25,19 +25,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/seyed-ali-akhavani/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Northeastern University
+    url: https://seclab.nu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: Northeastern University
+      year: 2024
+    - course: BSc in Computer Engineering
+      institution: University of Tehran
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true
