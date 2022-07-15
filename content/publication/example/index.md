@@ -12,8 +12,12 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin
-  - ""
+  - Seyed Ali Akhavani
+  - Jordan Jueckstock
+  - Junhua Su
+  - Alexandros Kapravelos
+  - Engin Kirda
+  - Long Lu
 author_notes:
   - Equal contribution
   - Equal contribution
