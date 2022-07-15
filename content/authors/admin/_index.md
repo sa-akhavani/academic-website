@@ -24,7 +24,7 @@ social:
   - display:
       header: false
     link: https://stackoverflow.com/users/4536252/seyed-ali-akhavani
-    icon_pack: fas
+    icon_pack: fab
     icon: stack-overflow
 organizations:
   - name: Northeastern University
