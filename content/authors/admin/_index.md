@@ -24,6 +24,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/seyed-ali-akhavani/
+  - display:
+      header: false
+    link: https://stackoverflow.com/users/4536252/seyed-ali-akhavani
+    icon_pack: fas
+    icon: stack-overflow
 organizations:
   - name: Northeastern University
     url: https://seclab.nu/
