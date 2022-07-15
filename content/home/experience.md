@@ -25,25 +25,30 @@ experience:
   - title: Research Assistant
     company: Systems Security Lab (SecLab)
     company_url: 'https://seclab.nu/'
-    company_logo: seclab-logo
+    # company_logo: seclab-logo
     location: Boston, MA
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        * Using automated fuzzing approaches to bypass web application firewalls. (WAF)
+        * Enhancing User Privacy Using Automatic Isolated Profiles in Browsers by adding an extra layer of security to browsers to prevent re-targeted ads from being displayed which use cookie syncing methods. (PriveShield)
+        * Analysis of the Impact of Browser Features on Browser Fingerprinting and generating a public list of browser fingerprinting APIs. (Browserprint)
+        * Organizing and participating in voluntary CTF training groups and web security paper readings.
+
+
+  - title: Software Engineer
+    company: TAPSI
+    company_url: 'https://www.linkedin.com/company/tapsi/'
+    # company_logo: tapsi-logo
+    location: Tehran
+    date_start: '2017-06-01'
+    date_end: '2019-08-31'
+    description: |2-
+        Responsibilities include:
+
+        * Tapsi
 
 design:
   columns: '2'
