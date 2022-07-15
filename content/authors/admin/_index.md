@@ -1,6 +1,7 @@
 ---
 title: Seyed Ali Akhavani
-role: Professor of Artificial Intelligence
+role: PhD Candidate at Northeastern University
+avatar_filename: img_0116.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
