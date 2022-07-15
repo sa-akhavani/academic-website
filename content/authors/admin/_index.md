@@ -1,7 +1,7 @@
 ---
 title: Seyed Ali Akhavani
 role: PhD Candidate at Northeastern University
-avatar_filename: img_0116.jpg
+avatar_filename: ""
 bio: My research is currently focused on Web Security and Privacy.
 interests:
   - Web Security
