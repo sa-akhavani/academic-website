@@ -18,9 +18,7 @@ authors:
   - Alexandros Kapravelos
   - Engin Kirda
   - Long Lu
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: In *International Security Conference 2021*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
